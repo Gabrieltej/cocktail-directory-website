@@ -164,7 +164,7 @@ Navbar
 }
 @media only screen and (max-width: 450px) and (min-width: 320px) {
  .nav-links a{
-   font-size: 0.2rem;
+   font-size: 0.5rem;
  }
 }
 
