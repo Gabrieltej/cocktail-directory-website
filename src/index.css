@@ -156,17 +156,23 @@ Navbar
   display: inline-block;
   font-weight: bold;
   margin-right: 0.5rem;
-  font-weight: 400;
+  font-weight: 250px;
   letter-spacing: 2px;
   font-size: 1.2rem;
   padding: 0.25rem 0.5rem;
   transition: var(--mainTransition);
 }
+@media only screen and (max-width: 450px) and (min-width: 320px) {
+ .nav-links a{
+   font-size: 0.2rem;
+ }
+}
+
 .nav-links a:hover {
   color: var(--primaryColor);
 }
 .logo {
-  width: 12rem;
+  width: 8rem;
 }
 /* 
 ====== 
