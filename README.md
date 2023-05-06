@@ -1,6 +1,6 @@
-# Gettng started with this web app
+# Getting started with this web app
 
-## This is a recipe directory website built on React. The website allows users to browse and search for recipes, as well as view individual recipe.
+# This is a recipe directory website built on React. The website allows users to browse and search for recipes, as well as view individual recipe.
 
 * Clone the repository: git clone https://github.com/your-username/recipe-directory.git
 * Navigate to the project directory
