@@ -1,6 +1,5 @@
 import React, { useState, useContext, useEffect } from 'react'
 
-import { useCallback } from 'react'
 
 // https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
 
